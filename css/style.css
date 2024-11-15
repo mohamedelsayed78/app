@@ -1,0 +1,21 @@
+h1{
+    font-size: 5rem;
+    font-weight: bold;
+}
+h2{
+    margin-top: 2rem;
+}
+button{
+    margin-top: 3rem;
+    background-color: blue;
+    color: antiquewhite;
+    transition: all 0.2s;
+    -webkit-transition: all 0.2s;
+    -moz-transition: all 0.2s;
+    -ms-transition: all 0.2s;
+    -o-transition: all 0.2s;
+    padding: 1rem 3rem;
+}
+button:hover{
+    background-color: darkgreen;
+}
